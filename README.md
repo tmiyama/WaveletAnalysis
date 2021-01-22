@@ -1,6 +1,6 @@
 # WaveletAnalysis
 
-Wavelet anaysis tool by Torrence and Compo [1998] is very popular in climatology. However, Liu et al. [2007] has pointed out that the method by Torrence and Compo [1998] has a bias in favor of large scales. These Jupyter Noteboos in Python are the translations of the original MATLAB programs.
+Wavelet anaysis tool by Torrence and Compo [1998] is very popular in climatology. However, Liu et al. [2007] has pointed out that the method by Torrence and Compo [1998] has a bias in favor of large scales. These Jupyter Noteboos in Python are the translations from the original MATLAB programs.
 
 **wavelet_test_sine.ipynb**
 
