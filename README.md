@@ -2,6 +2,8 @@
 
 Wavelet anaysis tool by Torrence and Compo [1998] is very popular in climatology. However, Liu et al. [2007] has pointed out that the method by Torrence and Compo [1998] has a bias in favor of large scales.
 
+** wavelet_test_ElNino3_Liu.ipynb **
+
 This notebook is the translation of Liu et al.'s matlab test program
 http://ocgweb.marine.usf.edu/~liu/wavelet_test_ElNino3_YLiu.m
 to python.
