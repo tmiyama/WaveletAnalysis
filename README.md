@@ -14,6 +14,23 @@ to python.
 
 **Python Modules**
 
+These are imported in the above notebooks.
+
+*wavelet.py*: This function is the translation of wavelet.m by Torrence and Compo
+
+*wave_bases.py*: This is translation of wave_bases.m by Torrence and Gilbert P. Compo
+
+*wave_signif.py*: This function is the translation of wave_signif.m by Torrence and Compo. This uses scipy function "chi2" instead of  chisquare_inv
+
+*wavelet_inverse.py*: Inverse continuous wavelet transform. Torrence and Compo (1998), eq. (11)
+
+**Others**
+
+*sst_nino3.dat*: NINO3 data
+
+*wavelet_test_sine.png*: Figure out of wavelet_test_sine.ipynb
+
+'nino3_TorrenceCompo.png',*nino3_liu.png*: Figure outputs of wavelet_test_ElNino3_Liu.ipynb 
 
 **References:**
 
