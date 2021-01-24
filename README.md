@@ -6,13 +6,15 @@ Wavelet anaysis tool by Torrence and Compo [1998] is very popular in climatology
 
 This notebook use an artificial sine curve for a test correponding to Liu et al. [2007].
 
+![](wavelet_test_sine.png)
+
 **wavelet_test_ElNino3_Liu.ipynb**
 
 This notebook is the translation of Liu et al.'s matlab test program
 http://ocgweb.marine.usf.edu/~liu/wavelet_test_ElNino3_YLiu.m
 to python.
 
-![](wavelet_test_sine.png)
+![](nino3_liu.png)
 
 **Python Modules**
 
