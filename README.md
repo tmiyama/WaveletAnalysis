@@ -1,4 +1,4 @@
-# WaveletAnalysis
+# Wavelet Analysis in Python
 
 Wavelet anaysis tool by Torrence and Compo [1998] is very popular in climatology. However, Liu et al. [2007] has pointed out that the method by Torrence and Compo [1998] has a bias in favor of large scales. These Jupyter Noteboos in Python are the translations from the original MATLAB programs.
 
@@ -11,6 +11,8 @@ This notebook use an artificial sine curve for a test correponding to Liu et al.
 This notebook is the translation of Liu et al.'s matlab test program
 http://ocgweb.marine.usf.edu/~liu/wavelet_test_ElNino3_YLiu.m
 to python.
+
+![](wavelet_test_sine.png)
 
 **Python Modules**
 
